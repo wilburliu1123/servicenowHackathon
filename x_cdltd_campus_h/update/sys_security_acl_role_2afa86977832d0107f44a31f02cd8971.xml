@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 12:29:44</sys_created_on>
+        <sys_id>2afa86977832d0107f44a31f02cd8971</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_campus_h_temperature_track.x_cdltd_campus_h.temperature_track_user</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_security_acl display_value="x_cdltd_campus_h_temperature_track">aafa86977832d0107f44a31f02cd896e</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_2afa86977832d0107f44a31f02cd8971</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 12:29:44</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_campus_h.temperature_track_user" name="x_cdltd_campus_h.temperature_track_user">16fa8a577832d0107f44a31f02cd895d</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

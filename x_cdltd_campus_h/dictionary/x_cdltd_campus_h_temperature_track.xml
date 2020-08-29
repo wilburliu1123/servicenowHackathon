@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Temperature Track" max_length="40" name="x_cdltd_campus_h_temperature_track" sizeclass="38" type="collection">
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="Temperature" max_length="40" name="temperature" type="float"/>
+        <element label="User" max_length="40" name="user" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="checkin_date" label="Checkin Date" language="en" table="x_cdltd_campus_h_checkin_record">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>checkin_date</element>
+            <help/>
+            <hint/>
+            <label>Checkin Date</label>
+            <language>en</language>
+            <name>x_cdltd_campus_h_checkin_record</name>
+            <plural>Checkin Dates</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-28 16:53:39</sys_created_on>
+            <sys_id>2c6743d778b2d0107f44a31f02cd8922</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Checkin Date</sys_name>
+            <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_campus_h_checkin_record_checkin_date_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-28 16:53:39</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

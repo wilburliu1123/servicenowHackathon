@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list action="DELETE" parent="" relationship="" sys_domain="global" table="x_cdltd_campus_h_user" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>checkin</element>
+            <list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:05:45</sys_created_on>
+            <sys_id>cdd2b10778f690107f44a31f02cd896d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:05:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>health_status</element>
+            <list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:05:45</sys_created_on>
+            <sys_id>45d2b10778f690107f44a31f02cd896e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:05:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>location</element>
+            <list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:05:45</sys_created_on>
+            <sys_id>c5d2b10778f690107f44a31f02cd896e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:05:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>temperature</element>
+            <list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:05:45</sys_created_on>
+            <sys_id>49d2b10778f690107f44a31f02cd896e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:05:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user_id</element>
+            <list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:05:45</sys_created_on>
+            <sys_id>c9d2b10778f690107f44a31f02cd896e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:05:45</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_cdltd_campus_h_user</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:05:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>cdd2b10778f690107f44a31f02cd896c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_campus_h_user</sys_name>
+            <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+            <sys_update_name>sys_ui_list_x_cdltd_campus_h_user_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:05:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</application>
+        <file_path/>
+        <instance_id>c8bdccf91b3a9c1888c56288bd4bcb13</instance_id>
+        <instance_name>adf-aug-102-dev-018</instance_name>
+        <name>sys_ui_list_x_cdltd_campus_h_user_null</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_list parent="" relationship="" sys_domain="global" table="x_cdltd_campus_h_user" version="2" view=""><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>checkin</element><list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id><max_value>false</max_value><min_value>false</min_value><position>0</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:05:45</sys_created_on><sys_id>cdd2b10778f690107f44a31f02cd896d</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:05:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>health_status</element><list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id><max_value>false</max_value><min_value>false</min_value><position>1</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:05:45</sys_created_on><sys_id>45d2b10778f690107f44a31f02cd896e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:05:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>location</element><list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id><max_value>false</max_value><min_value>false</min_value><position>2</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:05:45</sys_created_on><sys_id>c5d2b10778f690107f44a31f02cd896e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:05:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>temperature</element><list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id><max_value>false</max_value><min_value>false</min_value><position>3</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:05:45</sys_created_on><sys_id>49d2b10778f690107f44a31f02cd896e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:05:45</sys_updated_on></sys_ui_list_element><sys_ui_list_element action="INSERT_OR_UPDATE"><average_value>false</average_value><element>user_id</element><list_id display_value="x_cdltd_campus_h_user" element="NULL" name="x_cdltd_campus_h_user" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">cdd2b10778f690107f44a31f02cd896c</list_id><max_value>false</max_value><min_value>false</min_value><position>4</position><sum>false</sum><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:05:45</sys_created_on><sys_id>c9d2b10778f690107f44a31f02cd896e</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:05:45</sys_updated_on></sys_ui_list_element><sys_ui_list action="INSERT_OR_UPDATE"><average_value>false</average_value><element/><max_value>false</max_value><min_value>false</min_value><name>x_cdltd_campus_h_user</name><parent/><position/><relationship/><sum>false</sum><sys_class_name>sys_ui_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:05:45</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>cdd2b10778f690107f44a31f02cd896c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_campus_h_user</sys_name><sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package><sys_policy/><sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope><sys_update_name>sys_ui_list_x_cdltd_campus_h_user_null</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:05:45</sys_updated_on><sys_user/><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_list></sys_ui_list></record_update>]]></payload>
+        <payload_hash>1087721687</payload_hash>
+        <record_name>user</record_name>
+        <reverted_from/>
+        <source>70a1f5c378f690107f44a31f02cd895b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:05:45</sys_created_on>
+        <sys_id>c5d2b10778f690107f44a31f02cd8970</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17430aaf9a40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:05:45</sys_updated_on>
+        <type>List Layout</type>
+        <update_guid>85d2b107b4f690102a555c88d7b66070</update_guid>
+        <update_guid_history>85d2b107b4f690102a555c88d7b66070:1087721687</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:38:56</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_list">sys_ui_list</sys_db_object>
+        <sys_id>2cb48b1da4704a8ca488f2931fb08710</sys_id>
+        <sys_metadata>cdd2b10778f690107f44a31f02cd896c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_campus_h_user</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_parent display_value="">a882bdc378f690107f44a31f02cd8964</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_scope_delete display_value="">11834a803f1046c4884e2701f0898684</sys_scope_delete>
+        <sys_update_name>sys_ui_list_x_cdltd_campus_h_user_null</sys_update_name>
+        <sys_update_version display_value="sys_ui_list_x_cdltd_campus_h_user_null">c5d2b10778f690107f44a31f02cd8970</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:38:56</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

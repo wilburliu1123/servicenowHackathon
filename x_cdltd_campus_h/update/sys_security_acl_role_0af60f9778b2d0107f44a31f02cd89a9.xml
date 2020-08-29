@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 16:51:51</sys_created_on>
+        <sys_id>0af60f9778b2d0107f44a31f02cd89a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_campus_h_checkin_record.x_cdltd_campus_h.checkin_record_user</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_security_acl display_value="x_cdltd_campus_h_checkin_record">8af60f9778b2d0107f44a31f02cd89a6</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_0af60f9778b2d0107f44a31f02cd89a9</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 16:51:51</sys_updated_on>
+        <sys_user_role display_value="x_cdltd_campus_h.checkin_record_user" name="x_cdltd_campus_h.checkin_record_user">46f68b9778b2d0107f44a31f02cd89f4</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Campus Health User" max_length="40" name="x_cdltd_campus_h_health_user" sizeclass="15" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Check In Date" mandatory="true" max_length="40" name="check_in_date" type="glide_date_time"/>
+        <element display="true" label="Course" max_length="32" name="course" reference="x_cdltd_campus_h_course_registered" type="glide_list"/>
+        <element label="Date" max_length="40" name="date" type="glide_date_time"/>
+        <element label="First Name" max_length="40" name="first_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="good" label="Health Status" mandatory="true" max_length="40" name="health_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Good" sequence="0" value="good"/>
+                <element inactive_on_update="false" label="Bad" sequence="1" value="bad"/>
+            </choice>
+        </element>
+        <element label="Last Name" max_length="40" name="last_name" type="string"/>
+        <element label="Nurse ID" max_length="40" name="nurse_id" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="student" label="Role" mandatory="true" max_length="40" name="role" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Student" sequence="0" value="student"/>
+                <element inactive_on_update="false" label="Professor" sequence="1" value="professor"/>
+                <element inactive_on_update="false" label="Staff" sequence="2" value="staff"/>
+            </choice>
+        </element>
+        <element label="Temperature" mandatory="true" max_length="40" name="temperature" type="float"/>
+        <element label="User ID" max_length="40" name="user_id" type="integer"/>
+        <element label="User Reference" mandatory="true" max_length="32" name="user_reference" reference="sys_user" reference_qual="first_nameANYTHING^EQ" reference_qual_condition="first_nameANYTHING^EQ" type="reference"/>
+        <index name="index">
+            <element name="user_reference"/>
+        </index>
+        <index name="index2">
+            <element name="course"/>
+        </index>
+    </element>
+</database>

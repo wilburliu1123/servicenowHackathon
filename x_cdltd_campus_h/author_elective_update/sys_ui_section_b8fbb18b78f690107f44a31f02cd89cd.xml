@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="" section_id="b8fbb18b78f690107f44a31f02cd89cd" sys_domain="global" table="x_cdltd_campus_h_campus_health_user" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:45:36</sys_created_on>
+            <sys_id>fcfbf18b78f690107f44a31f02cd895c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_cdltd_campus_h_campus_health_user" sys_domain="global" view="Default view">b8fbb18b78f690107f44a31f02cd89cd</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:45:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption/>
+            <header>false</header>
+            <name>x_cdltd_campus_h_campus_health_user</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:45:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8fbb18b78f690107f44a31f02cd89cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_campus_h_campus_health_user</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+            <sys_update_name>sys_ui_section_b8fbb18b78f690107f44a31f02cd89cd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:45:36</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</application>
+        <file_path/>
+        <instance_id>c8bdccf91b3a9c1888c56288bd4bcb13</instance_id>
+        <instance_name>adf-aug-102-dev-018</instance_name>
+        <name>sys_ui_section_b8fbb18b78f690107f44a31f02cd89cd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="" section_id="b8fbb18b78f690107f44a31f02cd89cd" sys_domain="global" table="x_cdltd_campus_h_campus_health_user" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>name</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:45:36</sys_created_on><sys_id>fcfbf18b78f690107f44a31f02cd895c</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="NULL" display_value="" name="x_cdltd_campus_h_campus_health_user" sys_domain="global" view="Default view">b8fbb18b78f690107f44a31f02cd89cd</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:45:36</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption/><header>false</header><name>x_cdltd_campus_h_campus_health_user</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:45:36</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>b8fbb18b78f690107f44a31f02cd89cd</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_campus_h_campus_health_user</sys_name><sys_overrides/><sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package><sys_policy/><sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope><sys_update_name>sys_ui_section_b8fbb18b78f690107f44a31f02cd89cd</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:45:36</sys_updated_on><sys_user/><title>true</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-1245378899</payload_hash>
+        <record_name>Campus Health User</record_name>
+        <reverted_from/>
+        <source>70a1f5c378f690107f44a31f02cd895b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:45:36</sys_created_on>
+        <sys_id>f4fbf18b78f690107f44a31f02cd895e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17430cf759c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:45:36</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>70fbf18b95f690102a07e7d968fb755e</update_guid>
+        <update_guid_history>70fbf18b95f690102a07e7d968fb755e:-1245378899,74fbf18b72f69010a433ae285fd95659:513966969</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:51:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>024affbd020c484d838a3ab20435e729</sys_id>
+        <sys_metadata>b8fbb18b78f690107f44a31f02cd89cd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_cdltd_campus_h_campus_health_user</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_parent display_value="">cc3afd0b78f690107f44a31f02cd8978</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_scope_delete display_value="">11834a803f1046c4884e2701f0898684</sys_scope_delete>
+        <sys_update_name>sys_ui_section_b8fbb18b78f690107f44a31f02cd89cd</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_b8fbb18b78f690107f44a31f02cd89cd">f4fbf18b78f690107f44a31f02cd895e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:51:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

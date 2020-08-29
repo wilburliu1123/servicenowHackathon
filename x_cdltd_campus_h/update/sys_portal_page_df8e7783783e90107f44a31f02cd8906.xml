@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-29 18:18:24">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 02:16:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>df8e7783783e90107f44a31f02cd8906</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Campus Health report - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_update_name>sys_portal_page_df8e7783783e90107f44a31f02cd8906</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 02:16:12</sys_updated_on>
+        <title>PA Campus Health report - New Tab</title>
+        <user/>
+        <view>pa_campus_health_report_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Campus Health report - New Tab">df8e7783783e90107f44a31f02cd8906</page>
+                <summary>Number of student</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-08-28 17:58:02</sys_created_on>
+                <sys_id>2f161bd378f2d0107f44a31f02cd8940</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-08-28 17:58:02</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 17:58:02">2f161bd378f2d0107f44a31f02cd8940</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 17:58:02</sys_created_on>
+                        <sys_id>2b161bd378f2d0107f44a31f02cd8941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 17:58:02</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 17:58:02">2f161bd378f2d0107f44a31f02cd8940</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 17:58:02</sys_created_on>
+                        <sys_id>37161bd378f2d0107f44a31f02cd8942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 17:58:02</sys_updated_on>
+                        <value>Number of student</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-08-28 17:58:02">2f161bd378f2d0107f44a31f02cd8940</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 17:58:02</sys_created_on>
+                        <sys_id>73161bd378f2d0107f44a31f02cd8942</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 17:58:02</sys_updated_on>
+                        <value>pie</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-08-28 17:58:02">2f161bd378f2d0107f44a31f02cd8940</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 17:58:02</sys_created_on>
+                        <sys_id>bf161bd378f2d0107f44a31f02cd8941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 17:58:02</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 17:58:02">2f161bd378f2d0107f44a31f02cd8940</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 17:58:02</sys_created_on>
+                        <sys_id>e3161bd378f2d0107f44a31f02cd8941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 17:58:02</sys_updated_on>
+                        <value>0aafcf5f78b2d0107f44a31f02cd8937</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-28 17:58:02">2f161bd378f2d0107f44a31f02cd8940</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 17:58:02</sys_created_on>
+                        <sys_id>eb161bd378f2d0107f44a31f02cd8941</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 17:58:02</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Campus Health report - New Tab">df8e7783783e90107f44a31f02cd8906</page>
+                <summary>My Temperature report</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-08-28 02:17:25</sys_created_on>
+                <sys_id>41deb783783e90107f44a31f02cd89a9</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-08-28 18:11:39</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-08-28 02:17:25">41deb783783e90107f44a31f02cd89a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:17:25</sys_created_on>
+                        <sys_id>01deb783783e90107f44a31f02cd89aa</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:17:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 02:17:25">41deb783783e90107f44a31f02cd89a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:17:25</sys_created_on>
+                        <sys_id>05deb783783e90107f44a31f02cd89a9</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:11:39</sys_updated_on>
+                        <value>873957d778f2d0107f44a31f02cd8982</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-08-28 02:17:25">41deb783783e90107f44a31f02cd89a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:17:25</sys_created_on>
+                        <sys_id>4ddeb783783e90107f44a31f02cd89a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:17:25</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 02:17:25">41deb783783e90107f44a31f02cd89a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:17:25</sys_created_on>
+                        <sys_id>89deb783783e90107f44a31f02cd89a9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:17:25</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 02:17:25">41deb783783e90107f44a31f02cd89a9</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:17:25</sys_created_on>
+                        <sys_id>c1deb783783e90107f44a31f02cd89aa</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:11:39</sys_updated_on>
+                        <value>My Temperature report</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Campus Health report - New Tab">df8e7783783e90107f44a31f02cd8906</page>
+                <summary>User changes</summary>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-08-28 18:08:11</sys_created_on>
+                <sys_id>9c78d39778f2d0107f44a31f02cd89e4</sys_id>
+                <sys_mod_count>2</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-08-28 18:50:49</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-08-28 18:08:11">9c78d39778f2d0107f44a31f02cd89e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 18:08:11</sys_created_on>
+                        <sys_id>1c78d39778f2d0107f44a31f02cd89e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:08:11</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 18:08:11">9c78d39778f2d0107f44a31f02cd89e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 18:08:11</sys_created_on>
+                        <sys_id>5078d39778f2d0107f44a31f02cd89e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:08:11</sys_updated_on>
+                        <value>54b7975778f2d0107f44a31f02cd8989</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-08-28 18:08:11">9c78d39778f2d0107f44a31f02cd89e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 18:08:11</sys_created_on>
+                        <sys_id>5878d39778f2d0107f44a31f02cd89e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:08:11</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 18:08:11">9c78d39778f2d0107f44a31f02cd89e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 18:08:11</sys_created_on>
+                        <sys_id>9478d39778f2d0107f44a31f02cd89e5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:08:11</sys_updated_on>
+                        <value>com.glideapp.home.RenderHomepagePublishers</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>type</name>
+                        <portal_section display_value="Created 2020-08-28 18:08:11">9c78d39778f2d0107f44a31f02cd89e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 18:08:11</sys_created_on>
+                        <sys_id>9878d39778f2d0107f44a31f02cd89e6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:08:11</sys_updated_on>
+                        <value>-1</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 18:08:11">9c78d39778f2d0107f44a31f02cd89e4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 18:08:11</sys_created_on>
+                        <sys_id>dc78d39778f2d0107f44a31f02cd89e5</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 18:50:49</sys_updated_on>
+                        <value>User changes</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

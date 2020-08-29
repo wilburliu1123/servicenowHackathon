@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="Course Registered">1135f68b787a90107f44a31f02cd8930</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Course Registered</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_campus_h_course_registered</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_campus_h.admin,admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 20:55:46</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d935f68b787a90107f44a31f02cd8932</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Course Registered</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_update_name>sys_app_module_d935f68b787a90107f44a31f02cd8932</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 20:58:55</sys_updated_on>
+        <timeline_page/>
+        <title>Course Registered</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</application>
+        <file_path/>
+        <instance_id>c8bdccf91b3a9c1888c56288bd4bcb13</instance_id>
+        <instance_name>adf-aug-102-dev-018</instance_name>
+        <name>sys_app_module_d935f68b787a90107f44a31f02cd8932</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Course Registered">1135f68b787a90107f44a31f02cd8930</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Course Registered</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_cdltd_campus_h_course_registered</name><order/><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_cdltd_campus_h.admin,admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 20:55:46</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d935f68b787a90107f44a31f02cd8932</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Course Registered</sys_name><sys_overrides/><sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package><sys_policy/><sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope><sys_update_name>sys_app_module_d935f68b787a90107f44a31f02cd8932</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 20:58:55</sys_updated_on><timeline_page/><title>Course Registered</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-1360777860</payload_hash>
+        <record_name>Course Registered</record_name>
+        <reverted_from/>
+        <source>70a1f5c378f690107f44a31f02cd895b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 20:58:55</sys_created_on>
+        <sys_id>afe532cb787a90107f44a31f02cd89f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17431b7601a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 20:58:55</sys_updated_on>
+        <type>Module</type>
+        <update_guid>2be532cb8b7a901071943d75c35daef8</update_guid>
+        <update_guid_history>2be532cb8b7a901071943d75c35daef8:-1360777860,d535f68bb37a90101d245ed1676e5b34:397552639</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Course Registered">df48be0f787a90107f44a31f02cd8943</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 21:09:17</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>2dca9375c05342818ee7ddd68e2f74d1</sys_id>
+        <sys_metadata>d935f68b787a90107f44a31f02cd8932</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Course Registered</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_scope_delete display_value="">11834a803f1046c4884e2701f0898684</sys_scope_delete>
+        <sys_update_name>sys_app_module_d935f68b787a90107f44a31f02cd8932</sys_update_name>
+        <sys_update_version display_value="sys_app_module_d935f68b787a90107f44a31f02cd8932">afe532cb787a90107f44a31f02cd89f8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 21:09:17</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

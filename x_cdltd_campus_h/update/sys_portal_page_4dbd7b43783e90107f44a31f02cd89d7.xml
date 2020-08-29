@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-08-29 18:18:23">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4dbd7b43783e90107f44a31f02cd89d7</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>PA ITIL Homepage - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_update_name>sys_portal_page_4dbd7b43783e90107f44a31f02cd89d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+        <title>PA ITIL Homepage - New Tab</title>
+        <user/>
+        <view>pa_itil_homepage_-_new_tab</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="PA ITIL Homepage - New Tab">4dbd7b43783e90107f44a31f02cd89d7</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                <sys_id>d5bdbb43783e90107f44a31f02cd89c4</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 02:12:31">d5bdbb43783e90107f44a31f02cd89c4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                        <sys_id>91bdbb43783e90107f44a31f02cd89c5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='' href='task_list.do?sysparm_query=assigned_to%3Djavascript%3Ags.user_id%28%29%5EORassignment_group%3Djavascript%3AgetMyGroups%28%29%5Eactive%3Dtrue%5EEQ'&amp;gt;My Work&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 02:12:31">d5bdbb43783e90107f44a31f02cd89c4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                        <sys_id>99bdbb43783e90107f44a31f02cd89c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                        <value>20a328e0c0a8000900101da96fab7aca</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 02:12:31">d5bdbb43783e90107f44a31f02cd89c4</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                        <sys_id>ddbdbb43783e90107f44a31f02cd89c4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="PA ITIL Homepage - New Tab">4dbd7b43783e90107f44a31f02cd89d7</page>
+                <summary/>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                <sys_id>ddbdbb43783e90107f44a31f02cd89c2</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-08-28 02:12:31">ddbdbb43783e90107f44a31f02cd89c2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                        <sys_id>1dbdbb43783e90107f44a31f02cd89c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-08-28 02:12:31">ddbdbb43783e90107f44a31f02cd89c2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                        <sys_id>91bdbb43783e90107f44a31f02cd89c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                        <value>e8c2c3cac0a8000500186af3308a1b18</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-08-28 02:12:31">ddbdbb43783e90107f44a31f02cd89c2</portal_section>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2020-08-28 02:12:31</sys_created_on>
+                        <sys_id>ddbdbb43783e90107f44a31f02cd89c3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2020-08-28 02:12:31</sys_updated_on>
+                        <value>&amp;lt;a onmousedown='Event.stop(event); return false;' class='' href='task_list.do?sysparm_query=assignment_group%3Djavascript%3AgetMyGroups%28%29%5Eactive%3Dtrue%5Estate%21%3D-5%5EEQ'&amp;gt;My Groups Work&amp;lt;/a&amp;gt;</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

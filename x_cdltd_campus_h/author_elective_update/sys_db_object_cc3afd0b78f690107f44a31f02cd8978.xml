@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Campus Health User</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_cdltd_campus_h_campus_health_user</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:44:55</sys_created_on>
+        <sys_id>cc3afd0b78f690107f44a31f02cd8978</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Campus Health User</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_update_name>sys_db_object_cc3afd0b78f690107f44a31f02cd8978</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:44:55</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="x_cdltd_campus_h.campus_health_user_user" name="x_cdltd_campus_h.campus_health_user_user">3ecbbd4b78f690107f44a31f02cd892e</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</application>
+        <file_path/>
+        <instance_id>c8bdccf91b3a9c1888c56288bd4bcb13</instance_id>
+        <instance_name>adf-aug-102-dev-018</instance_name>
+        <name>sys_db_object_cc3afd0b78f690107f44a31f02cd8978</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access>public</access><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>true</create_access_controls><delete_access>false</delete_access><extension_model/><is_extendable>false</is_extendable><label>Campus Health User</label><live_feed_enabled>false</live_feed_enabled><name>x_cdltd_campus_h_campus_health_user</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class/><sys_class_code/><sys_class_name>sys_db_object</sys_class_name><sys_class_path/><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:44:55</sys_created_on><sys_id>cc3afd0b78f690107f44a31f02cd8978</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Campus Health User</sys_name><sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package><sys_policy/><sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope><sys_update_name>sys_db_object_cc3afd0b78f690107f44a31f02cd8978</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:44:55</sys_updated_on><update_access>false</update_access><user_role display_value="x_cdltd_campus_h.campus_health_user_user" name="x_cdltd_campus_h.campus_health_user_user">3ecbbd4b78f690107f44a31f02cd892e</user_role><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>97874731</payload_hash>
+        <record_name>Campus Health User</record_name>
+        <reverted_from/>
+        <source>70a1f5c378f690107f44a31f02cd895b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:44:57</sys_created_on>
+        <sys_id>1bcb318b78f690107f44a31f02cd897d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17430cedc560000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:44:57</sys_updated_on>
+        <type>Table</type>
+        <update_guid>53cb318bc6f6901003541ce2ffc32f7d</update_guid>
+        <update_guid_history>53cb318bc6f6901003541ce2ffc32f7d:97874731</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:51:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>4653ea6c0a8146a8925cf787db999090</sys_id>
+        <sys_metadata>cc3afd0b78f690107f44a31f02cd8978</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Campus Health User</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_scope_delete display_value="">11834a803f1046c4884e2701f0898684</sys_scope_delete>
+        <sys_update_name>sys_db_object_cc3afd0b78f690107f44a31f02cd8978</sys_update_name>
+        <sys_update_version display_value="sys_db_object_cc3afd0b78f690107f44a31f02cd8978">1bcb318b78f690107f44a31f02cd897d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:51:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

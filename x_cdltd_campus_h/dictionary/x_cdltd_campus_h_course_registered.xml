@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Course Registered" max_length="40" name="x_cdltd_campus_h_course_registered" sizeclass="5" type="collection">
+        <element label="Checkin Date" max_length="40" name="checkin_date" type="glide_date"/>
+        <element display="true" label="Course Name" max_length="40" name="course_name" type="string"/>
+        <element label="Course Number" max_length="40" name="course_number" type="string"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

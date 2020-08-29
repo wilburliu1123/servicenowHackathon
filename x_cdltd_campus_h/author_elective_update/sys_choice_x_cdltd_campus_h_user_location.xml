@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="DELETE" field="location" table="x_cdltd_campus_h_user" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>location</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Vancouver</label>
+            <language>en</language>
+            <name>x_cdltd_campus_h_user</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:21:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e767d8778f690107f44a31f02cd89d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:21:39</sys_updated_on>
+            <value>vancouver</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <name>x_cdltd_campus_h_user</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-08-27 16:21:39</sys_created_on>
+            <sys_id>c6767d8778f690107f44a31f02cd89d6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>location</sys_name>
+            <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_campus_h_user_location</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-08-27 16:21:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</application>
+        <file_path/>
+        <instance_id>c8bdccf91b3a9c1888c56288bd4bcb13</instance_id>
+        <instance_name>adf-aug-102-dev-018</instance_name>
+        <name>sys_choice_x_cdltd_campus_h_user_location</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_choice action="INSERT_OR_UPDATE" field="location" table="x_cdltd_campus_h_user" version="3"><sys_choice action="INSERT_OR_UPDATE"><dependent_value/><element>location</element><hint/><inactive>false</inactive><label>Vancouver</label><language>en</language><name>x_cdltd_campus_h_user</name><sequence>3</sequence><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:21:39</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8e767d8778f690107f44a31f02cd89d8</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:21:39</sys_updated_on><value>vancouver</value></sys_choice><sys_choice_set action="INSERT_OR_UPDATE"><element>location</element><name>x_cdltd_campus_h_user</name><sys_class_name>sys_choice_set</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-08-27 16:21:39</sys_created_on><sys_id>c6767d8778f690107f44a31f02cd89d6</sys_id><sys_mod_count>0</sys_mod_count><sys_name>location</sys_name><sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package><sys_policy/><sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope><sys_update_name>sys_choice_x_cdltd_campus_h_user_location</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-08-27 16:21:39</sys_updated_on></sys_choice_set></sys_choice></record_update>]]></payload>
+        <payload_hash>-1244046150</payload_hash>
+        <record_name>x_cdltd_campus_h_user.location</record_name>
+        <reverted_from/>
+        <source>70a1f5c378f690107f44a31f02cd895b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:38:57</sys_created_on>
+        <sys_id>df6af14b78f690107f44a31f02cd892a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17430c95ecd0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:38:57</sys_updated_on>
+        <type>Choice list</type>
+        <update_guid>5b6af14beff690100767e970701fdb2a</update_guid>
+        <update_guid_history>5b6af14beff690100767e970701fdb2a:-1244046150,176af14b71f69010919bc02225ea0028:2057319220,df6af14bebf690106eed7622edce3f25:1343300891,8a767d87e7f6901080a7d5af01bd06da:-1269505543</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 16:38:57</sys_created_on>
+        <sys_db_object display_value="" name="sys_choice_set">sys_choice_set</sys_db_object>
+        <sys_id>c6767d8778f690107f44a31f02cd89d6</sys_id>
+        <sys_metadata>c6767d8778f690107f44a31f02cd89d6</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>location</sys_name>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_scope_delete display_value="">11834a803f1046c4884e2701f0898684</sys_scope_delete>
+        <sys_update_name>sys_choice_x_cdltd_campus_h_user_location</sys_update_name>
+        <sys_update_version display_value="sys_choice_x_cdltd_campus_h_user_location">df6af14b78f690107f44a31f02cd892a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-27 16:38:57</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

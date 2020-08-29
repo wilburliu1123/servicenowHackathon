@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Campus Health User">f6cbfd4b78f690107f44a31f02cd89f0</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Course Registered</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_cdltd_campus_h_course_registered</name>
+        <order>800</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_cdltd_campus_h.admin,admin,x_cdltd_campus_h.campus_health_user_user,x_cdltd_campus_h.nurse,x_cdltd_campus_h.user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-08-27 21:08:08</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>84d7fa0f787a90107f44a31f02cd8985</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Course Available</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Campus Health" source="x_cdltd_campus_h">fca1f5c378f690107f44a31f02cd8958</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Campus Health">fca1f5c378f690107f44a31f02cd8958</sys_scope>
+        <sys_update_name>sys_app_module_84d7fa0f787a90107f44a31f02cd8985</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-08-28 19:15:10</sys_updated_on>
+        <timeline_page/>
+        <title>Course Available</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
